@@ -1,6 +1,7 @@
 # SQL_Challenge - Employee Database: A Mystery in Two Parts
 
 Conduct a research project on employees of the corporation from the 1980s and 1990s. 
+
 Six csv files provided (departments, dept_emp, dept_manager, employees, salaries, titles)
 
 ## Objectives
